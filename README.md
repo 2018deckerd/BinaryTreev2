@@ -1,2 +1,2 @@
-# BinaryTreev2
-An updated version of Binary Trees which implements certain actions on trees with String record data.
+# binary-tree-text-parser
+repo with starter code for binary tree text parser
